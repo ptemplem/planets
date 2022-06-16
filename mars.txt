@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favorite colour!
+<<<<<<< HEAD
 There are also too many Rovers :(
 Surprise! Cucumber!
 An ill-considered change...
+=======
+There are also too many Martians :(
+>>>>>>> parent of 31726cc... added a surprise
